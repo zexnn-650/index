@@ -1,0 +1,2 @@
+# index
+ai based website
